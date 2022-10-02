@@ -14,7 +14,7 @@ const Eric = {
   pronomes: "Ele" | "Dele",
   idade: 19,
   animes: ["Shokugeki no souma", "One Piece", "Spy x Family" "..."],
-  linguagens: [Javascript, HTML, CSS],
+  linguagens: ["Javascript", "HTML", "CSS"],
   editor: "Visual Studio Code",
   estudante: true,
 ```
