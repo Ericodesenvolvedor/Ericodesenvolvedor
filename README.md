@@ -27,7 +27,7 @@
 <br/>
 
 <a href="https://github.com/Ericodesenvolvedor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericodesenvolvedor&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ericodesenvolvedor&show_icons=true&theme=dracula" />
 </a>
 
 <br/>
