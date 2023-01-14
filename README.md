@@ -8,9 +8,9 @@ I'm a beginner developer front-end and I'm styding in [Rocketseat](https://www.r
 
 #### Current Stack
 
-- Main language: `Javacript`
-- Front-end: `Html, Css and Javacript`
-- Tools: `Vs code, Figma`
+- :zap: Main language: `Javacript`
+- :tada: Front-end: `Html, Css and Javacript`
+- :hammer: Tools: `Vs code, Figma`
 
 #### Analyze
 
@@ -18,10 +18,10 @@ I'm a beginner developer front-end and I'm styding in [Rocketseat](https://www.r
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ericodesenvolvedor&show_icons=true&theme=dracula" />
 </a>
 
-#### Contact 
+#### Contacts 
 
-[Linkedin](https://www.linkedin.com/in/eric-de-oliveira-pereira/)
+- 👤 Linkedin: www.linkedin.com/in/eric-de-oliveira-pereira/
 
-[Instagram](https://www.instagram.com/ericodesenvolvedor/)
+- 👤 Instagram: www.instagram.com/ericodesenvolvedor/
 
-Discord: `EricDesenvolvedor#5511`
+- 👤 Discord: `EricDesenvolvedor#5511`
