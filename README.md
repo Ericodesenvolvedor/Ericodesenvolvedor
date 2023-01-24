@@ -24,4 +24,6 @@ I'm a beginner developer front-end and I'm styding in [Rocketseat](https://www.r
 
 - 👤 Instagram: www.instagram.com/ericodesenvolvedor/
 
+- 👤 Portfolio: https://ericodesenvolvedor.github.io/meu-portfolio/
+
 - 👤 Discord: `EricDesenvolvedor#5511`
