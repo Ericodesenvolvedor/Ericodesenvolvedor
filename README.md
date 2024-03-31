@@ -4,7 +4,7 @@
 
 #### About 
 
-I'm a beginner developer front-end and I'm styding in [Rocketseat](https://www.rocketseat.com.br) and [Alura](https://www.alura.com.br/).
+I'm a beginner developer front-end and I'm styding in [Origamid](https://www.origamid.com/) and [OneBitCode](https://cursos.onebitcode.com/).
 
 #### Current Stack
 
@@ -24,6 +24,6 @@ I'm a beginner developer front-end and I'm styding in [Rocketseat](https://www.r
 
 - 👤 Instagram: www.instagram.com/ericodesenvolvedor/
 
-- 👤 Portfolio: https://ericodesenvolvedor.github.io/meu-portfolio/
+- 👤 Portfolio: https://ericodesenvolvedor.github.io/portfolio/
 
 - 👤 Discord: `EricDesenvolvedor#5511`
